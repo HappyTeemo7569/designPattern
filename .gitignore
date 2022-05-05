@@ -1,0 +1,8 @@
+*.exe
+logs/
+*.tmp
+.idea
+go.mod
+go.sum
+vendor
+log
